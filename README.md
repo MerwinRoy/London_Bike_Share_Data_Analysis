@@ -23,8 +23,8 @@ Historical data for bike sharing in london extracted using Python from Kaggle us
 The dataset contains attributes such as timestamps, temperatures in celsius (actual and feels like), wind speeds, weather and season (codes), holiday and weekend values (boolean).
 
 More info about the dataset can be found here:
-[Website](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data)<br>
+[Kaggle Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data)<br>
 
 
 ## Dashboard
-[Tableau Link](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data)
+[Tableau Link](https://public.tableau.com/app/profile/merwin.roy/viz/LondonBikeShareVisualization/Dashboard1)
